@@ -1,0 +1,17 @@
+Source: binutils-mips-linux-os161
+Section: utils
+Priority: optional
+Maintainer: Geoffrey Challen <geoffrey.challen@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: http://www.eecs.harvard.edu/~dholland/os161/
+
+Package: binutils-mips-linux-os161
+Architecture: i386 amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: binutils for OS/161 cross compile
+ OS/161 is a teaching operating system, that is, a simplified system used for
+ teaching undergraduate operating systems classes. It is BSD-like in feel and
+ has more "reality" than most other teaching OSes; while it runs on a simulator
+ it has the structure and design of a larger system. These are modified
+ binutils for use with OS/161.

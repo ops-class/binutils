@@ -1,0 +1,7 @@
+binutils-mips-linux-os161 binary: license-problem-gfdl-invariants
+binutils-mips-linux-os161 binary: package-contains-hardlink
+binutils-mips-linux-os161 binary: file-in-unusual-dir
+binutils-mips-linux-os161 binary: non-standard-dir-in-usr
+binutils-mips-linux-os161 binary: manpage-has-errors-from-man
+binutils-mips-linux-os161 binary: binary-without-manpage
+binutils-mips-linux-os161 binary: latest-debian-changelog-entry-changed-to-native

@@ -1,0 +1,6 @@
+binutils-mips-linux-os161 source: license-problem-gfdl-invariants
+binutils-mips-linux-os161 source: package-contains-hardlink
+binutils-mips-linux-os161 source: file-in-unusual-dir
+binutils-mips-linux-os161 source: non-standard-dir-in-usr
+binutils-mips-linux-os161 source: manpage-has-errors-from-man
+binutils-mips-linux-os161 source: binary-without-manpage

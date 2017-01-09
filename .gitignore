@@ -1,0 +1,8 @@
+/packages
+/Makefile
+/config.log
+/config.status
+/serdep.tmp
+*.swp
+*.swo
+*.o
