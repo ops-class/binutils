@@ -1,41 +1,5 @@
-binutils-mips-linux-os161 (2.24.1~xenial) xenial; urgency=medium
+binutils-mips-linux-os161 (2.24~os161~2.1~xenial0) xenial; urgency=medium
 
-  * Packaging for xenial. 
+  * Rebooting change log and changing version number convention.
 
  -- Geoffrey Challen <geoffrey.challen@gmail.com>  Mon, 09 Jan 2017 10:41:48 -0500
-
-binutils-mips-linux-os161 (2.24-0ubuntu6) trusty; urgency=medium
-
-  * Trusty.
-
- -- Geoffrey Challen <geoffrey.challen@gmail.com>  Thu, 15 Jan 2015 20:27:21 -0500
-
-binutils-mips-linux-os161 (2.24-0ubuntu5) precise; urgency=medium
-
-  * Install fix. 
-
- -- Geoffrey Challen <geoffrey.challen@gmail.com>  Thu, 15 Jan 2015 20:19:27 -0500
-
-binutils-mips-linux-os161 (2.24-0ubuntu4) precise; urgency=medium
-
-  * Release for precise.
-
- -- Geoffrey Challen <geoffrey.challen@gmail.com>  Thu, 15 Jan 2015 19:17:48 -0500
-
-binutils-mips-linux-os161 (2.24-0ubuntu3) trusty; urgency=medium
-
-  * Creating symlinks.
-
- -- Geoffrey Challen <geoffrey.challen@gmail.com>  Thu, 15 Jan 2015 19:11:43 -0500
-
-binutils-mips-linux-os161 (2.24-0ubuntu2) precise; urgency=medium
-
-  * Release for precise.
-
- -- Geoffrey Challen <geoffrey.challen@gmail.com>  Thu, 15 Jan 2015 16:04:48 -0500
-
-binutils-mips-linux-os161 (2.24-0ubuntu1) trusty; urgency=low
-
-  * Initial release
-
- -- Geoffrey Challen <geoffrey.challen@gmail.com>  Wed, 14 Jan 2015 21:32:08 +0000
