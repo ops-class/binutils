@@ -6,3 +6,11 @@
 *.swp
 *.swo
 *.o
+/bfd
+/binutils
+/etc
+/gas
+/intl
+/ld
+/libiberty
+/opcodes
