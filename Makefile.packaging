@@ -5,8 +5,6 @@ test: clean
 	lintian packages/*.deb packages/*.dsc --fail-on-warnings
 	pbuilder-dist `ls packages/*.dsc | perl -ne'/~([^~]+?)\d+\.dsc$$/ && print $$1'` build packages/*.dsc
 
-testing:
-
 sign: clean
 	gbp buildpackage --git-builder="debuild -S"
 
