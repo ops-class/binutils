@@ -47,7 +47,7 @@ builds.
 
 Here is the versioning convention that we have established for the `binutils`:
 `2.24~os161~2.1~xenial0`, the first package for Xenial based on the OS/161
-binutils version `2.24+os161`.
+binutils version `2.24+os161-2.1`.
 //
 Bump the post-Xenial version number as needed to account for library changes,
 multiple distributions, build debugging, or any other reason.
